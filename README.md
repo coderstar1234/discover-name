@@ -9,7 +9,7 @@
 
 <h1 align="center">Technologies Used: 📚</h1>
 
-- Discover is built using the following technologies:
+<p align="center"> <b>  Discover is built using the following technologies:-</b></p>
 
 - HTML5
 - CSS
