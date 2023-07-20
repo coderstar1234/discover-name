@@ -19,7 +19,8 @@
 <p align="center"> <b> Run Discover locally,</b></p>
 <p align="center"> <b>  follow these steps:-</b></p>
 
-- Clone this repository to your local machine using git clone https://github.com/your-username/discover.git<br>
+- Clone this repository to your local machine using git clone
+- https://github.com/your-username/discover.git
 
 - Open the index.html file in your web browser.<br>
 <h1 align="center">Features📝</h1>
