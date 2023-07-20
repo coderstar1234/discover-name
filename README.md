@@ -1,6 +1,6 @@
 <h1 align="center"> DISCOVER-NAME 👩‍💻</h1>
 
-- The discovery name simple project for html, CSS and JavaScrip.<br>
+- The discovery name simple project for HTML, CSS, and JavaScrip.<br>
 
 - Discover is a web project that showcases a collection of photos from different locations around the world.
   
