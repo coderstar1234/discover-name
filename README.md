@@ -11,11 +11,10 @@
 
 - Discover is built using the following technologies:
 
-- HTML5 <br>
-
-- CSS<br>
-
-- JavaScript<br>
+- HTML5
+- CSS
+- JavaScript
+  <hr>
 <h1 align="center">Getting Started 🧐</h1>
 
 - To run Discover locally, follow these steps:<br>
