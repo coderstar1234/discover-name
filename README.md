@@ -16,8 +16,8 @@
 - JavaScript
   <hr>
 <h1 align="center">Getting Started 🧐</h1>
-<p align="center"> <b> run Discover locally,</b></p>
-  follow these steps:
+<p align="center"> <b> Run Discover locally,</b></p>
+<p align="center"> <b>  follow these steps:-</b></p>
 
 - Clone this repository to your local machine using git clone https://github.com/your-username/discover.git<br>
 
