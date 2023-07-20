@@ -56,6 +56,6 @@
 <h1 align="center">Contributing👬</h1>
 
 - If you would like to contribute to Discover, please fork the repository and create a pull request.
-
+<hr>
 
 
