@@ -18,8 +18,17 @@
 <h1 align="center">Getting Started 🧐</h1>
 <p align="center"> <b> Run Discover locally,</b></p>
 <p align="center"> <b>  follow these steps:-</b></p>
+<h1 align="center"> Installation:</h1>
+<h3 align=" center" >To run this project locally:📺 </h3>
+<div align="center" >
+<img height="200" wedith="200" src="https://media1.giphy.com/media/dvsE3ncGE4g718CAqM/200.gif"></div>
 
-- Clone this repository to your local machine using git clone
+ <h2 align="center"> follow these steps:</h2>
+
+<h3 align="center"> Clone the repository from GitHub.:-</h3>
+<div align="center" >
+<img height="100" wedith="100" src="https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif"></div>
+
 - https://github.com/your-username/discover.git
 
 - Open the index.html file in your web browser.<br>
