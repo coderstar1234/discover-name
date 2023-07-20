@@ -16,7 +16,6 @@
 - JavaScript
   <hr>
 <h1 align="center">Getting Started 🧐</h1>
-
 <p align="center"> To run Discover locally,</p>
   follow these steps:
 
