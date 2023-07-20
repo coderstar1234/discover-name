@@ -17,7 +17,8 @@
   <hr>
 <h1 align="center">Getting Started 🧐</h1>
 
-- To run Discover locally, follow these steps:<br>
+<p align="center"> To run Discover locally,</p>
+  follow these steps:
 
 - Clone this repository to your local machine using git clone https://github.com/your-username/discover.git<br>
 
