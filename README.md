@@ -7,7 +7,7 @@
 - Users can browse the photos, filter them by location or category, and view detailed information about each photo.
   <hr>
 
-<h1 align="center">Technologies Used: 📚</h1>
+<h1 align="center">Technologies Used:- 📚</h1>
 
 <p align="center"> <b>  Discover is built using the following technologies:-</b></p>
 
