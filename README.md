@@ -34,8 +34,7 @@
 - Open the index.html file in your web browser.<br>
 <h1 align="center">Features📝</h1>
 
-- Discover includes the following features:<br>
-
+- Discover includes the following features:
 - Responsive design: the website is optimized for different screen sizes and devices.<br>
 
 - Photo grid: displays a grid of photos with a title and location.<br>
