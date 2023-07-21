@@ -15,7 +15,7 @@
 - CSS
 - JavaScript
   <hr>
-<h1 align="center">Getting Started 🧐</h1>
+<h1 align="center">Getting Started:- 🧐</h1>
 <p align="center"> <b> Run Discover locally,</b></p>
 <p align="center"> <b>  follow these steps:-</b></p>
 <h1 align="center"> Installation:</h1>
