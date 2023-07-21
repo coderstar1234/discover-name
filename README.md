@@ -2,7 +2,7 @@
 
 - The discovery name simple project for HTML, CSS, and JavaScrip.
 - Discover is a web project that showcases a collection of photos from different locations around the world.
-  - Users can browse the photos, filter them by location or category, and view detailed information about each photo.
+- Users can browse the photos, filter them by location or category, and view detailed information about each photo.
   <hr>
 
 <h1 align="center">Technologies Used:- 📚</h1>
