@@ -1,4 +1,4 @@
-<h1 align="center"> DISCOVER-NAME:- 👩‍💻</h1>
+<h1 align="center"><u> DISCOVER-NAME:- 👩‍💻</u></h1>
 
 - The discovery name simple project for HTML, CSS, and JavaScrip.<br>
 
