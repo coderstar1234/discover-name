@@ -34,7 +34,8 @@
 <h1 align="center">Features📝</h1>
 
 <p align="center"><i> Discover includes the following features:-</i></p>
-- Responsive design: the website is optimized for different screen sizes and devices.<br>
+
+- Responsive design: the website is optimized for different screen sizes and devices.
 
 - Photo grid: displays a grid of photos with a title and location.<br>
 
