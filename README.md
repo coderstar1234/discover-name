@@ -41,7 +41,7 @@
 
 - Modal: displays a larger version of the photo and detailed information when a user clicks on a photo.<br>
 
-- Smooth scrolling: allows users to smoothly scroll through the website.<br>
+- Smooth scrolling: allows users to smoothly scroll through the website.
 <h1 align="center">Usage🧩</h1>
 
 - To use Discover, simply open the website in your web browser and start browsing the photos.
