@@ -29,7 +29,8 @@
 
 - https://github.com/your-username/discover.git
 
-- Open the index.html file in your web browser.<br>
+- Open the index.html file in your web browser.
+  <hr>
 <h1 align="center">Features📝</h1>
 
 - Discover includes the following features:
