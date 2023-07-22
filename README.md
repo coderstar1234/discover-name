@@ -36,13 +36,9 @@
 <p align="center"><i> Discover includes the following features:-</i></p>
 
 - Responsive design: the website is optimized for different screen sizes and devices.
-
-- Photo grid: displays a grid of photos with a title and location.<br>
-
+- Photo grid: displays a grid of photos with a title and location.
 - Filter: allows users to filter photos by location or category.<br>
-
 - Modal: displays a larger version of the photo and detailed information when a user clicks on a photo.<br>
-
 - Smooth scrolling: allows users to smoothly scroll through the website.
 <h1 align="center">Usage🧩</h1>
 
