@@ -21,7 +21,7 @@
 <div align="center" >
 <img height="200" wedith="200" src="https://media1.giphy.com/media/dvsE3ncGE4g718CAqM/200.gif"></div>
 
- <h2 align="center"> follow these steps:</h2>
+ <h2 align="center"> follow these steps:👈</h2>
 
 <h3 align="center"> Clone the repository from GitHub.:-</h3>
 <div align="center" >
