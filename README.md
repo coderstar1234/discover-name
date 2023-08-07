@@ -31,7 +31,7 @@
 
 - Open the index.html file in your web browser.
   <hr>
-<h1 align="center">Features📝</h1>
+<h1 align="center">Features:-📝</h1>
 
 <p align="center"><i> Discover includes the following features:-</i></p>
 
