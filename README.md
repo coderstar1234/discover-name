@@ -53,7 +53,7 @@
 
 - Discover was created by [your name] and is licensed under the MIT License. The photos used in this project are sourced from unsplash.com.
  <hr>
-<h1 align="center">Contributing👬</h1>
+<h1 align="center">Contributing:👬</h1>
 
 - If you would like to contribute to Discover, please fork the repository and create a pull request.
 <hr>
