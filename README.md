@@ -49,7 +49,7 @@
 - To filter the photos, click on the filter button and select a location or category.
 -  To view more information about a photo, click on the photo to open a modal with a larger version of the photo and detailed information.
 <hr>
-<h1 align="center">Credits📙</h1>
+<h1 align="center">Credits:📙</h1>
 
 - Discover was created by [your name] and is licensed under the MIT License. The photos used in this project are sourced from unsplash.com.
  <hr>
